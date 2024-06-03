@@ -1,0 +1,14 @@
+package kadai_018;
+
+
+public class KatoTaro_Chapter18 extends Kato_Chapter18{
+
+	public void setGivename() {
+	giveName ="太郎";
+}
+
+    public void eachlntroduce() {
+	System.out.println("私はJavaが得意です");
+}
+
+}
